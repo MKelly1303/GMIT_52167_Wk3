@@ -1,3 +1,3 @@
 # GMIT_52167_Wk3
 
-First Repository
+Week 3 Task for Programming and Scripting Module
